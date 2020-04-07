@@ -1,0 +1,9 @@
+{
+   "requestId":12345,
+   "protocolType":"IAnimation.createComponent",
+   "data":{
+      "width":"1920",
+      "height":"1080",
+      "color":"00000000",
+   }
+}
